@@ -1,0 +1,1 @@
+{"name":"Bad-time","tagline":"Bad time with Explosive","body":"`var player = require('play-sound')(opts = {})\r\nplayer.play('foo.mp3', function(err){}) // $ mplayer foo.mp3 `","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
